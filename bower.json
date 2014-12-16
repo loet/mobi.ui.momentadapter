@@ -1,0 +1,16 @@
+{
+  "name": "mobi.ui.momentadapter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/loet/mobi.ui.momentadapter",
+  "authors": [
+    "U110730 <ueli.loetscher@mobi.ch>"
+  ],
+  "description": "angular module providing moment",
+  "main": "src/momentadapter.js",
+  "license": "N/A",
+  "devDependencies": {
+    "momentjs": "2.6.0",
+    "angular": "1.2.21",
+    "angular-mocks": "1.2.21"
+  }
+}
