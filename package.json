@@ -1,6 +1,6 @@
 {
   "name": "mobi.ui.momentadapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "angular module providing momentjs",
   "main": "Gruntfile.js",
   "scripts": {
